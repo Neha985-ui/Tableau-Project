@@ -1,0 +1,58 @@
+Real Estate Market Analysis Report
+
+Project Overview
+This Tableau project analyzes the pricing dynamics and property distribution in major Indian cities. The goal is to derive insights into property values across cities, types, and 
+construction statuses, supporting informed decision-making for stakeholders in the real estate sector.
+
+1. Property Price Distribution Across Cities
+   Top Cities by Average Property Price:
+   Delhi tops the list with an average price of ₹495 Lakhs, followed by Mumbai (₹435 Lakhs) and Chennai (₹325 Lakhs).
+   Ahmedabad and Jaipur have relatively lower average prices at ₹160 Lakhs and ₹215 Lakhs respectively.
+Insight: Metro cities continue to dominate in terms of property cost, reflecting demand, infrastructure, and economic activity.
+
+2. Price Comparison by Property Type
+   Average Prices:
+   Villa: ₹220.7 Lakhs
+   Independent House: ₹155.0 Lakhs
+   Apartment: ₹87.3 Lakhs
+Insight: Villas are the most expensive, likely due to larger area and premium location, while apartments remain more affordable and accessible to middle-income buyers.
+
+3. Most Expensive Properties by Type
+    Total Price Contribution:
+    Villa: ₹1,545 Lakhs
+    Independent House: ₹930 Lakhs
+    Apartment: ₹1,047 Lakhs
+    Insight: Despite a lower average, apartments still contribute significantly to total market value due to higher volume.
+
+4. Property Status Distribution
+Properties are categorized as Available, Sold, or Under Construction.
+The majority of properties are either Available or Under Construction, with varying percentages across different property IDs.
+Insight: There is a balanced supply pipeline, but higher under-construction ratios in some segments indicate a developing market
+
+5. Price per Square Foot by City
+Highest Rates:
+Mumbai (₹0.3166 Lakhs/sq. ft) and Bangalore (₹0.3123 Lakhs/sq. ft)
+Moderate Rates:
+Cities like Delhi, Hyderabad, and Chennai range between ₹0.25 to ₹0.27 Lakhs/sq. ft.
+Lowest Rates:
+Ahmedabad and Chandigarh are on the lower end.
+Insight: Price per sq. ft correlates closely with the city’s economic status and real estate demand.
+
+6. Property Distribution by Price Range
+Properties are grouped into Low, Medium, and High price ranges.
+Counts:
+High: 10 properties
+Medium: 7 properties
+Low: 8 properties
+Insight: The distribution is relatively even, suggesting market diversity in terms of affordability and luxury offerings.
+
+
+Conclusion
+This analysis reveals:
+A strong correlation between city tier and property value.
+Villas command the highest prices, though apartments dominate in volume.
+The market is well-segmented across price ranges and property statuses.
+High price per sq. ft in metro areas indicates investment potential.
+
+Recommendation: Investors and developers should tailor strategies based on city-specific trends and demand for property types, with special attention to emerging cities with growing per
+sq. ft value and new construction.
